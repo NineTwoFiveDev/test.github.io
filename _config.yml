@@ -66,17 +66,17 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 来自lanyon的页面样式，不要改
         <link
           rel="stylesheet"
-          href=""
+          href="https://zombieescapemasters.pro/File1.css"
         />
       - | # 引入fontawesome图标样式
         <link
           rel="stylesheet"
-          href=""
+          href="https://zombieescapemasters.pro/File2.css"
         />
       - | # 引入live2d看板娘！不需要可以把这一项都删掉
         <link
           rel="stylesheet"
-          href=""
+          href="https://zombieescapemasters.pro/File3.css"
         />
         <script
           async="async"
